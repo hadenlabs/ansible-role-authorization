@@ -10,6 +10,9 @@
 
   vars:
     user: ubuntu
+    authorization_user: '{{ user }}'
+    authorization_key_public: '~/.ssh/id_rsa.pub'
+    authorization_key_private: '~/.ssh/id_rsa'
 
   tasks:
     - name: 'Include ansible-role-authorization'
