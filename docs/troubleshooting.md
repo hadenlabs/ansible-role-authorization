@@ -1,8 +1,8 @@
-<!-- Space: AnsibleRoleTemplate -->
+<!-- Space: AnsibleRoleAuthorization -->
 <!-- Parent: Project -->
 <!-- Title: Project Troubleshooting -->
 
-<!-- Label: AnsibleRoleTemplate -->
+<!-- Label: AnsibleRoleAuthorization -->
 <!-- Label: Project -->
 <!-- Label: Troubleshooting -->
 <!-- Include: docs/disclaimer.md -->

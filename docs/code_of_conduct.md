@@ -1,4 +1,4 @@
-<!-- Space: AnsibleRoleTemplate -->
+<!-- Space: AnsibleRoleAuthorization -->
 <!-- Parent: Project -->
 <!-- Title: Code of Conduct -->
 
