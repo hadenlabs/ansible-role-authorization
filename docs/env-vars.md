@@ -1,8 +1,8 @@
-<!-- Space: AnsibleRoleTemplate -->
+<!-- Space: AnsibleRoleAuthorization -->
 <!-- Parent: Project -->
 <!-- Title: Env Vars -->
 
-<!-- Label: AnsibleRoleTemplate -->
+<!-- Label: AnsibleRoleAuthorization -->
 <!-- Label: Project -->
 <!-- Label: Env Vars -->
 <!-- Include: docs/disclaimer.md -->
