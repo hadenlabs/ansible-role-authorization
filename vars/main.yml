@@ -1,8 +1,8 @@
 ---
 # vars file for authorization
 
-_root_group: root
-_authorization_packages:
-  - software-properties-common
-  - python-software-properties
-  - wget
+_authorization_key_files:
+  - src: '{{ authorization_key_public }}'
+    path: '/home/{{ authorization_user}}/.ssh/id_rsa.pub'
+  - src: '{{ authorization_key_private }}'
+    path: '/home/{{ authorization_user}}/.ssh/id_rsa'

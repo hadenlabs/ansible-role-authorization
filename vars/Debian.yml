@@ -3,6 +3,5 @@
 
 _root_group: root
 _authorization_packages:
-  - software-properties-common
-  - python-software-properties
+  - git
   - wget
